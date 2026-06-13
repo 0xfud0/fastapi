@@ -2,4 +2,6 @@ Read me
 
 FastAPI Learning From freecodecamp. 
 
-Learned Fastapi, pydantic, postgre, nginx, docker, albemic etc
+Learned Fastapi, pydantic, postgre, nginx, docker, albemic etc.
+
+This Gonna get deleted.
