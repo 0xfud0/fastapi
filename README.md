@@ -1,3 +1,5 @@
 Read me 
 
-FastAPI Learning From freecodecamp
+FastAPI Learning From freecodecamp. 
+
+Learned Fastapi, pydantic, postgre, nginx, docker, albemic etc
